@@ -1,3 +1,7 @@
+html {
+	scroll-behavior: horizontal;
+}
+
 #banner {
 
 }
@@ -34,3 +38,22 @@ title {
 
 }
 
+section {
+
+}
+
+aside {
+
+}
+
+main {
+background-color: ;
+}
+
+footer {
+background-color: ;
+}
+
+input[type="search"] {
+	border-radius: 5px;
+}
