@@ -4,26 +4,33 @@ html {
 
 #banner {
 
+	margin: ;
 }
 
 #brand {
-
+	padding: ;
+	margin: ;
 }
 
 #logo {
+	padding: ;
+	margin: ;
 
 }
 
 #navigation-bar { 
-
+	padding: ;
+	margin: ;
 }
 
 .banner-items {
-
+	padding: ;
+	margin: ;
 }
 
 .navigation-links{
-
+	padding: ;
+	margin: ;
 }
 
 title {
@@ -31,41 +38,60 @@ title {
 }
 
 .social-media-links {
-
+	padding: ;
+	margin: ;
 }
 
 #social-media-container {
 
+	margin: ;
 }
 
 section {
-
+	padding: ;
+	margin: ;
 }
 
 aside {
-
+	padding: ;
+	margin: ;
 }
 
-main {
-background-color: ;
-}
+
 
 footer {
-background-color: ;
+	background-color: ;
 }
 
 input[type="search"] {
 	border-radius: 5px;
 }
 
-a {
+input [type="submit"] {
 
 }
 
 main {
 
+	margin: ;
 }
 
 body {
 	
 }
+
+figcaption {
+
+	margin: ;
+}
+
+figure {
+
+	margin: ;
+}
+
+
+
+
+
+
