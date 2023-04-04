@@ -5,19 +5,24 @@ html {
 /* 🗝️ BANNIERE = LOGO + BARRE DE NAVIGATION */
 
 .banner {
-
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	gap: 30px;
 }
 
-.banner-items {
+.banner-item-1 {
+	flex: 1 2 auto;
+}
 
+.banner-item-2 {
+	flex: 1 1 auto;
 }
 
 
 /* 🗝️ LOGO */
 
-.logo-container {
-	
-}
+.logo-container {}
 
 img {
 	height: 12px;
@@ -26,13 +31,9 @@ img {
 
 /* 🗝️ BARRE de NAVIGATION */
 
-.navigation-bar { 
+.navigation-bar {}
 
-}
-
-.navigation-links{
-
-}
+.navigation-links {}
 
 
 /* 🗝️ RESEAUX SOCIAUX */
@@ -45,11 +46,4 @@ img {
 	align-items: center;
 }
 
-.social-media-links {
-
-}
-
-
-
-
-
+.social-media-links {}
