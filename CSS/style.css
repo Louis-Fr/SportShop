@@ -2,8 +2,7 @@ html {
 	scroll-behavior: horizontal;
 }
 
-
-
+/* 🗝️ BANNIERE = LOGO + BARRE DE NAVIGATION */
 
 .banner {
 
@@ -17,7 +16,8 @@ html {
 
 }
 
-/* <!-- 🗝️ BARRE de NAVIGATION --> */
+
+/* 🗝️ BARRE de NAVIGATION */
 
 .navigation-bar { 
 
@@ -27,50 +27,14 @@ html {
 
 }
 
-/* <!-- 🗝️ RESEAUX SOCIAUX --> */
+
+/* 🗝️ RESEAUX SOCIAUX */
+
+.social-media-container {
+
+}
 
 .social-media-links {
-
-}
-
-section {
-
-}
-
-aside {
-
-}
-
-
-
-footer {
-
-}
-
-input[type="search"] {
-	border-radius: 5px;
-}
-
-input [type="submit"] {
-
-}
-
-main {
-
-
-}
-
-body {
-	
-}
-
-figcaption {
-
-
-}
-
-figure {
-
 
 }
 
