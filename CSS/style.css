@@ -2,16 +2,10 @@ html {
 	scroll-behavior: horizontal;
 }
 
-#banner {
-
-}
 
 
-#logo {
 
-}
-
-#navigation-bar { 
+.banner {
 
 }
 
@@ -19,18 +13,23 @@ html {
 
 }
 
+.logo {
+
+}
+
 /* <!-- 🗝️ BARRE de NAVIGATION --> */
+
+.navigation-bar { 
+
+}
 
 .navigation-links{
 
 }
 
+/* <!-- 🗝️ RESEAUX SOCIAUX --> */
+
 .social-media-links {
-
-}
-
-#social-media-container {
-
 
 }
 
