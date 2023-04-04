@@ -12,21 +12,23 @@ html {
 }
 
 .banner-item-1 {
+	width: 100%;
 	flex: 1 2 auto;
 }
 
 .banner-item-2 {
+	width: 100%;
 	flex: 1 1 auto;
 }
 
 
 /* 🗝️ LOGO */
 
-.logo-container {}
-
-img {
-	height: 12px;
+.logo-container {
+	display: flex;
+	flex-wrap: wrap;
 }
+
 
 
 /* 🗝️ BARRE de NAVIGATION */
